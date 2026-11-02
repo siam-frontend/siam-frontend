@@ -1,154 +1,209 @@
 
-<!-- ================= HEADER ================= -->
+<!-- ===================== HEADER ===================== -->
 
 <div align="center">
 
-# 👋 Hey, I'm SIAM
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=200&section=header&text=SIAM.DEV&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Creative%20Web%20Builder&descAlignY=58&descSize=17" width="100%" />
 
-### 💻 SIAM.DEV | Aspiring Full Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+in+Progress;Learning+HTML%2C+CSS%2C+JavaScript;Exploring+React+%26+Modern+Web;Future+Full+Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Developer;Building+Modern+Web+Experiences;Passionate+About+Clean+UI+%26+Code;Always+Learning+Something+New" />
 
 <br/>
 
-🌍 Based in Bangladesh  
-🚀 Building my journey in Web Development
+[![GitHub](https://img.shields.io/badge/GitHub-siam--frontend-181717?style=for-the-badge&logo=github)](https://github.com/siam-frontend)
+[![Profile Views](https://komarev.com/ghpvc/?username=siam-frontend&style=for-the-badge&color=0e75b6)](https://github.com/siam-frontend)
 
 </div>
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
+<!-- ===================== ABOUT ===================== -->
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Siam**, a passionate web development learner from Bangladesh.
+Hi! I'm **Siam**, a passionate **Frontend Developer** from Bangladesh.
 
-I enjoy creating modern, responsive, and user-friendly websites. I'm currently focusing on frontend development and improving my skills through practical projects.
+I enjoy turning ideas into clean, modern, and responsive web experiences. I focus on writing structured code, building user-friendly interfaces, and continuously improving my development skills.
 
-- 🌱 Currently learning **JavaScript and React**
-- 💻 Working with **HTML, CSS, Bootstrap, Tailwind CSS**
-- 🎨 Interested in modern UI/UX and responsive web design
-- 🔭 Building personal web development projects
-- 🎯 Goal: Become a **Professional Full Stack Developer**
-- ⚡ Believe in learning by building real projects
-
----
-
-<!-- ================= TECH STACK ================= -->
-
-## 🛠️ Technologies & Tools
-
-### 🎨 Frontend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass,react" />
-</p>
-
-### ⚙️ Tools & Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,windows" />
-</p>
-
-### 🚀 Future Learning Roadmap
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-<p align="center">
-  <i>These are technologies I plan to learn as I progress toward full-stack development.</i>
-</p>
+- 💻 Currently focused on **Frontend Development**
+- 🎨 Interested in modern UI design and responsive layouts
+- 🌱 Learning JavaScript and React
+- 🛠️ Building practical web development projects
+- 📚 Always exploring new technologies and improving my skills
+- 🎯 Working toward becoming a professional developer
 
 ---
 
-<!-- ================= PROJECTS ================= -->
+<!-- ===================== TECH STACK ===================== -->
+
+## 🛠️ Tech Stack & Tooling
+
+### 💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### 🎨 Frontend Frameworks & Styling
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,sass,react" />
+</p>
+
+### ⚙️ Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
+</p>
+
+### 🖥️ Environment
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows" />
+</p>
+
+---
+
+<!-- ===================== PROJECTS ===================== -->
 
 ## 🚀 Featured Projects
 
-Here are some of my web development practice projects.
+A selection of my frontend practice and development projects.
 
-### 🌐 Mini Blog
-A responsive blog website built with HTML, CSS, and Bootstrap.
+<table>
+<tr>
+<td width="50%">
 
-🔗 [Live Demo](https://siam-frontend.github.io/mini-blog/) · [Source Code](https://github.com/siam-frontend/mini-blog)
+### 📝 Mini Blog
+
+A responsive blog website with a clean layout and modern styling.
+
+**Tech:** HTML · CSS · Bootstrap
+
+[Live Demo](https://siam-frontend.github.io/mini-blog/) | [Source Code](https://github.com/siam-frontend/mini-blog)
+
+</td>
+<td width="50%">
 
 ### ✅ Todo App
-A simple task management application built with HTML, CSS, and JavaScript.
 
-🔗 [Live Demo](https://siam-frontend.github.io/todo-app/) · [Source Code](https://github.com/siam-frontend/todo-app)
+A simple task management application for organizing daily tasks.
 
-### 💻 Website Practice
-A collection of web design and frontend practice work.
+**Tech:** HTML · CSS · JavaScript
 
-🔗 [Live Demo](https://siam-frontend.github.io/website-practice/) · [Source Code](https://github.com/siam-frontend/website-practice)
+[Live Demo](https://siam-frontend.github.io/todo-app/) | [Source Code](https://github.com/siam-frontend/todo-app)
 
-### 👨‍💻 Portfolio
-My personal web development portfolio.
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-🔗 [Live Portfolio](https://siam-frontend.github.io/siam-portfolio/) · [Source Code](https://github.com/siam-frontend/siam.dev)
+### 🌐 Website Practice
+
+Frontend website layouts and design practice.
+
+**Tech:** HTML · CSS · JavaScript
+
+[Live Demo](https://siam-frontend.github.io/website-practice/) | [Source Code](https://github.com/siam-frontend/website-practice)
+
+</td>
+<td width="50%">
+
+### 👨‍💻 Personal Portfolio
+
+My personal portfolio and web development showcase.
+
+**Tech:** HTML · CSS · JavaScript
+
+[Live Portfolio](https://siam-frontend.github.io/siam-portfolio/) | [Source Code](https://github.com/siam-frontend/siam.dev)
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
+<!-- ===================== GITHUB STATS ===================== -->
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siam-frontend&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siam-frontend&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=siam-frontend&theme=tokyonight&hide_border=true" width="70%" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=siam-frontend&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siam-frontend&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=siam-frontend&theme=tokyonight&hide_border=true" width="70%" />
+
+</div>
 
 ---
 
-<!-- ================= CONTRIBUTION GRAPH ================= -->
+<!-- ===================== ACTIVITY ===================== -->
 
 ## 📈 Contribution Activity
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siam-frontend&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+<!-- ===================== CURRENT FOCUS ===================== -->
+
+## 🎯 Current Focus
+
+- [x] HTML & CSS Fundamentals
+- [x] Responsive Web Design
+- [x] Bootstrap
+- [ ] JavaScript Improvement
+- [ ] Tailwind CSS
+- [ ] React.js
+- [ ] Advanced Frontend Projects
+
+---
+
+<!-- ===================== FUTURE GOAL ===================== -->
+
+## 🚀 Future Goal
+
+My long-term goal is to become a **Full Stack Developer**.
+
+I plan to expand my skills into backend development, APIs, databases, and server-side technologies while continuing to strengthen my frontend foundation.
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siam-frontend&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <br/>
+  <sub>Future Learning Technologies</sub>
 </p>
 
 ---
 
-<!-- ================= GOALS ================= -->
-
-## 🎯 My Learning Goals
-
-- [x] Learn HTML
-- [x] Learn CSS fundamentals
-- [x] Practice Bootstrap
-- [ ] Improve JavaScript
-- [ ] Master Tailwind CSS
-- [ ] Learn React.js
-- [ ] Learn Node.js & Express.js
-- [ ] Learn Databases
-- [ ] Become a Full Stack Developer
-
----
-
-<!-- ================= CONNECT ================= -->
+<!-- ===================== CONNECT ===================== -->
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://facebook.com/sinhaalsiam">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/sinha-al-siam">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:sinhaalsiyam83@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/siam-frontend">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+<a href="https://facebook.com/sinhaalsiam">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/sinha-al-siam">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:sinhaalsiyam83@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/siam-frontend">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
 
 ---
@@ -157,8 +212,8 @@ My personal web development portfolio.
 
 ### 💙 Thanks for visiting my profile!
 
-**"Keep Learning, Keep Building, Keep Growing."**
+**Code. Create. Learn. Repeat.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:0F172A&height=120&section=footer" width="100%" />
 
 </div>
