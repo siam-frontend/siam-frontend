@@ -1,71 +1,67 @@
-# 👋 Hey, I'm SIAM DEV
+# ⚡ SIAM.DEV
 
-### 💜 Frontend Web Developer
+<h3 align="center">Frontend Developer | Creative Web Designer</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BD93F9&width=600&lines=Frontend+Developer;Building+Modern+Websites;Learning+Every+Day" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;I+Build+Modern+Websites;Turning+Ideas+Into+Reality;Always+Learning+New+Things" />
+</p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080B16,50:172554,100:312E81&height=3" width="100%" />
+</p>
 
-## 👨‍💻 About Me
+## 👨‍💻 ABOUT ME
 
-I'm Siam, a passionate Frontend Web Developer focused on creating modern, responsive, and user-friendly websites.
+Hello! I'm **Siam**, a passionate Frontend Web Developer from Bangladesh.
 
-- 🌱 Currently learning JavaScript and React.js
-- 💻 Building responsive web projects
+- 💻 Focused on Frontend Development
+- 🌱 Currently learning JavaScript & React.js
 - 🎨 Interested in UI/UX and Web Design
-- 🚀 Goal: Become a Professional Frontend Developer
-- ⚡ Learning Every Day, Building Every Day!
+- 🚀 Building modern and responsive websites
+- 🎯 Working towards becoming a Professional Developer
 
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass,react,git,github,vscode&theme=dark" />
-</p>
-
----
-
-## 📊 GitHub Statistics
+## ⚙️ TECHNOLOGIES
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=siam-frontend&show_icons=true&theme=dracula&hide_border=true&title_color=BD93F9&icon_color=FF79C6" width="100%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,sass,react,git,github,vscode&theme=dark" />
+</p>
+
+## 📊 GITHUB ANALYTICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siam-frontend&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=A78BFA&bg_color=080B16" width="100%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siam-frontend&layout=compact&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siam-frontend&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=38BDF8" />
 </p>
 
----
-
-## 🔥 Contribution Streak
+## 🔥 CONTRIBUTION STREAK
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=siam-frontend&theme=dracula&hide_border=true" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=siam-frontend&theme=tokyonight&hide_border=true&background=080B16&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8" width="100%" />
 </p>
 
----
+## 🚀 FEATURED PROJECTS
 
-## 🚀 Featured Projects
+| Project | Description |
+|---|---|
+| [Todo App](https://github.com/siam-frontend/todo-app) | Task Management |
+| [Mini Blog](https://github.com/siam-frontend/mini-blog) | Blog Website |
+| [Website Practice](https://github.com/siam-frontend/website-practice) | Web Design Practice |
 
-- [Todo App](https://github.com/siam-frontend/todo-app)
-- [Mini Blog](https://github.com/siam-frontend/mini-blog)
-- [Website Practice](https://github.com/siam-frontend/website-practice)
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/siam-frontend">
-<img src="https://img.shields.io/badge/GitHub-282A36?style=for-the-badge&logo=github&logoColor=BD93F9" />
-</a>
-</p>
-
----
+## 🌐 CONNECT WITH ME
 
 <p align="center">
-<strong>💜 Learning Every Day, Building Every Day!</strong>
+  <a href="https://github.com/siam-frontend">
+    <img src="https://img.shields.io/badge/GitHub-080B16?style=for-the-badge&logo=github&logoColor=38BDF8" />
+  </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD93F9,50:282A36,100:FF79C6&height=120&section=footer" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,50:172554,100:312E81&height=120&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  <b>⚡ CODE • CREATE • INNOVATE ⚡</b>
+</p>
