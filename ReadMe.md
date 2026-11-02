@@ -55,12 +55,11 @@ I enjoy turning ideas into clean, modern, and responsive web experiences. I focu
   <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
 </p>
 
-### 🖥️ Environment & Development Setup
+### 🌐 Browsers & Testing
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=windows,vscode,git,github,chrome" />
+  <img src="https://skillicons.dev/icons?i=chrome,firefox,edge" />
 </p>
----
 
 <!-- ===================== PROJECTS ===================== -->
 
