@@ -55,10 +55,14 @@ I enjoy turning ideas into clean, modern, and responsive web experiences. I focu
   <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
 </p>
 
-### 🌐 Browsers & Testing
+### 🔧 Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=chrome,firefox,edge" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,docker,postman,redis" />
+</p>
+
+<p align="left">
+  <sub>Technologies and tools planned for my Full Stack Development journey.</sub>
 </p>
 
 <!-- ===================== PROJECTS ===================== -->
