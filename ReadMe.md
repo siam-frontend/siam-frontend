@@ -55,14 +55,10 @@ I enjoy turning ideas into clean, modern, and responsive web experiences. I focu
   <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
 </p>
 
-### 🖥️ Environment
+### 🖥️ Environment & Development Setup
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=windows" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=apple" />
+  <img src="https://skillicons.dev/icons?i=windows,vscode,git,github,chrome" />
 </p>
 ---
 
