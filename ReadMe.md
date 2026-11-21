@@ -86,11 +86,11 @@ A responsive blog website with a clean layout and modern styling.
 </td>
 <td width="50%">
 
-### ✅ Todo App
+### ✅ Adidas-shop-demo
 
-A simple task management application for organizing daily tasks.
+A modern, responsive Adidas Shop website built with HTML, CSS, Bootstrap 5, and Sass. Features a clean UI, responsive layout, product showcase, smooth animations, and Dark/Light mode toggle.
 
-**Tech:** HTML · CSS · JavaScript
+**Tech:** html css bootstrap5 sass javascript responsive-design adidas frontend
 
 [Live Demo](https://siam-frontend.github.io/siam-frontend-adidas-shop-demo) | [Source Code](https://siam-frontend.github.io/siam-frontend-adidas-shop-demo)
 
