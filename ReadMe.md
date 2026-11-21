@@ -92,7 +92,7 @@ A simple task management application for organizing daily tasks.
 
 **Tech:** HTML · CSS · JavaScript
 
-[Live Demo](https://siam-frontend.github.io/todo-app/) | [Source Code](https://github.com/siam-frontend/todo-app)
+[Live Demo](https://siam-frontend.github.io/siam-frontend-adidas-shop-demo) | [Source Code](https://siam-frontend.github.io/siam-frontend-adidas-shop-demo)
 
 </td>
 </tr>
